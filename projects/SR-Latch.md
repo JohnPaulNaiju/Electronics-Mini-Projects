@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/b8bec472-c9b8-427d-b46e-1b39e7450adb
 ## Requirements:
 - 2 LEDs x2
 - 1k resistor x4
+- Transistors (2N2222A) x2
 - Jumper wires
 - Breaboard
 - 5V Power source
