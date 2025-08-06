@@ -2,5 +2,5 @@
 
 # Electronics Mini Projects 🔌
 
-1) **Oscillating circuit** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/Oscillating-Circuit.md)
-2) **SR Latch** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/SR-Latch.md)
+1) **Oscillating circuit** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/projects/Oscillating-Circuit.md)
+2) **SR Latch** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/projects/SR-Latch.md)
