@@ -1,5 +1,7 @@
 # SR Latch
 
+SR latches are fundamental building blocks for computer memory, acting as one-bit memory cells.
+
 I constructed an SR Latch, a foundational digital memory circuit. This project was a practical introduction to sequential logic, demonstrating how feedback between cross-coupled gates creates a bistable element capable of storing a single bit of information.
 
 ## Visuals 📸
