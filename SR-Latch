@@ -1,0 +1,22 @@
+# SR Latch
+
+I constructed an SR Latch, a foundational digital memory circuit. This project was a practical introduction to sequential logic, demonstrating how feedback between cross-coupled gates creates a bistable element capable of storing a single bit of information.
+
+## Visuals 📸
+
+
+
+## Requirements:
+- 2 LEDs x2
+- 1k resistor x4
+- Jumper wires
+- Breaboard
+- 5V Power source
+
+## Circuit Diagram
+
+
+
+## How to
+
+Refer this [YouTube video](https://www.youtube.com/watch?v=5vRAACeebjI&t=1051s) by HackMakeMod to learn more.
