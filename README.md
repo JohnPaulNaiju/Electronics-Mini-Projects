@@ -2,6 +2,8 @@
 
 # Mini Electronics and Logic Circuit Design 🔌
 
+* Electronics projects of simple circuits and logic systems.
+
 1) **Oscillating circuit** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/projects/Oscillating-Circuit.md)
 2) **SR Latch** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/projects/SR-Latch.md)
 3) **LOGIC GATES** [See here](https://github.com/JohnPaulNaiju/Electronics-Mini-Projects/blob/main/projects/LOGIC-Gates.md)
