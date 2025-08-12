@@ -26,6 +26,7 @@ An AND Gate produces a high output (1) only when all of its inputs are high (1);
 
 <img width="400" height="300" alt="AND Gate" src="https://github.com/user-attachments/assets/fb3f66f1-d0c4-4879-ad15-ba16650df8c0" />
 
+
 Here LED acts as the output!
 
 ### Visuals 📸
