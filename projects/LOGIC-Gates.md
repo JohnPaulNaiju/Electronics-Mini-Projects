@@ -49,7 +49,7 @@ An OR Gate produces a high output (1) if at least one of its inputs is high (1).
 
 ### Circuit Diagram
 
-<img width="400" height="300" alt="AND Gate" src="https://github.com/user-attachments/assets/fb3f66f1-d0c4-4879-ad15-ba16650df8c0" />
+<img width="400" height="240" alt="or-gate" src="https://github.com/user-attachments/assets/a08403ae-3e0d-4d44-a907-2146f2f57ce0" />
 
 Here LED acts as the output!
 
