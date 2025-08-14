@@ -72,7 +72,7 @@ A NOT Gate produces the complement of the input.
 
 ### Circuit Diagram
 
-<img width="400" height="300" alt="AND Gate" src="https://github.com/user-attachments/assets/fb3f66f1-d0c4-4879-ad15-ba16650df8c0" />
+<img width="220" height="200" alt="not-gate" src="https://github.com/user-attachments/assets/e4476731-a5b6-4284-9446-b833b9ed158d" />
 
 Here LED acts as the output!
 
