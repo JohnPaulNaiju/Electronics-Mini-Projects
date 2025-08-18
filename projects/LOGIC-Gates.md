@@ -81,3 +81,28 @@ Here LED acts as the output!
 ![notgate](https://github.com/user-attachments/assets/a6a3c373-5ce5-4315-859f-2c33dbfd9480)
 
 LED turns off at [1], and on at [0] which is the expected behaviour of an NOT Gate
+
+## NAND GATE
+
+A NAND Gate produces the complement of the AND Gate.
+
+### Truth table:
+
+| Input A | Input B | Output (A AND B) |
+|:-------:|:-------:|:----------------:|
+|    0    |    0    |         1        |
+|    0    |    1    |         1        |
+|    1    |    0    |         1        |
+|    1    |    1    |         0        |
+
+### Circuit Diagram
+
+<img width="692" height="495" alt="Screenshot 2025-08-18 at 5 18 15 PM" src="https://github.com/user-attachments/assets/52fd61e9-03ca-449d-9263-018ee3ca0498" />
+
+Here LED acts as the output!
+
+### Visuals 📸
+
+![nand](https://github.com/user-attachments/assets/f79cf330-7b4e-4b42-a5a2-9a65a321c05f)
+
+LED turns off at [1, 1], and on at rest which is the expected behaviour of an NAND Gate
