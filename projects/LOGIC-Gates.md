@@ -106,3 +106,28 @@ Here LED acts as the output!
 ![nand](https://github.com/user-attachments/assets/f79cf330-7b4e-4b42-a5a2-9a65a321c05f)
 
 LED turns off at [1, 1], and on at rest which is the expected behaviour of an NAND Gate
+
+## NOR GATE
+
+A NOR Gate produces the complement of the OR Gate.
+
+### Truth table:
+
+| Input A | Input B | Output (A AND B) |
+|:-------:|:-------:|:----------------:|
+|    0    |    0    |         1        |
+|    0    |    1    |         0        |
+|    1    |    0    |         0        |
+|    1    |    1    |         0        |
+
+### Circuit Diagram
+
+<img width="1018" height="730" alt="Screenshot 2025-08-18 at 5 53 31 PM" src="https://github.com/user-attachments/assets/5403adb1-a193-413a-9ebf-14330ae10c5f" />
+
+Here LED acts as the output!
+
+### Visuals 📸
+
+![nor](https://github.com/user-attachments/assets/1b0c79e5-c9cd-4eba-9bb9-ad9bb48e449b)
+
+LED turns on at [0, 0], and off at rest which is the expected behaviour of an NAND Gate
