@@ -130,4 +130,4 @@ Here LED acts as the output!
 
 ![nor](https://github.com/user-attachments/assets/1b0c79e5-c9cd-4eba-9bb9-ad9bb48e449b)
 
-LED turns on at [0, 0], and off at rest which is the expected behaviour of an NAND Gate
+LED turns on at [0, 0], and off at rest which is the expected behaviour of an NOR Gate
