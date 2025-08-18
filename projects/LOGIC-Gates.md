@@ -122,7 +122,7 @@ A NOR Gate produces the complement of the OR Gate.
 
 ### Circuit Diagram
 
-<img width="1018" height="730" alt="Screenshot 2025-08-18 at 5 53 31 PM" src="https://github.com/user-attachments/assets/5403adb1-a193-413a-9ebf-14330ae10c5f" />
+<img width="692" height="495" alt="Screenshot 2025-08-18 at 5 53 31 PM" src="https://github.com/user-attachments/assets/5403adb1-a193-413a-9ebf-14330ae10c5f" />
 
 Here LED acts as the output!
 
