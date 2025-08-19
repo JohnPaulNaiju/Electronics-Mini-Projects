@@ -131,3 +131,28 @@ Here LED acts as the output!
 ![nor](https://github.com/user-attachments/assets/1b0c79e5-c9cd-4eba-9bb9-ad9bb48e449b)
 
 LED turns on at [0, 0], and off at rest which is the expected behaviour of an NOR Gate
+
+## XOR GATE
+
+A XOR Gate produces `1` when inputs are exclusive OR.
+
+### Truth table:
+
+| Input A | Input B | Output (A AND B) |
+|:-------:|:-------:|:----------------:|
+|    0    |    0    |         0        |
+|    0    |    1    |         1        |
+|    1    |    0    |         1        |
+|    1    |    1    |         0        |
+
+### Circuit Diagram
+
+<img width="692" height="495" alt="Screenshot 2025-08-18 at 5 53 31 PM" src="https://github.com/user-attachments/assets/5403adb1-a193-413a-9ebf-14330ae10c5f" />
+
+Here LED acts as the output!
+
+### Visuals 📸
+
+![xor](https://github.com/user-attachments/assets/cef7636c-c64e-4fbc-b424-887db96124f6)
+
+LED turns off at [0, 0] and [1, 1], and on at rest which is the expected behaviour of an XOR Gate
