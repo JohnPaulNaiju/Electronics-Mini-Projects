@@ -153,6 +153,6 @@ Here LED acts as the output!
 
 ### Visuals 📸
 
-![xor](https://github.com/user-attachments/assets/cef7636c-c64e-4fbc-b424-887db96124f6)
+<img width="976" height="695" alt="Screenshot 2025-08-19 at 8 01 56 PM" src="https://github.com/user-attachments/assets/79e50aac-9673-430a-a82b-930a954a0471" />
 
 LED turns off at [0, 0] and [1, 1], and on at rest which is the expected behaviour of an XOR Gate
