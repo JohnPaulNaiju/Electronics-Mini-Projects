@@ -147,12 +147,12 @@ A XOR Gate produces `1` when inputs are exclusive OR.
 
 ### Circuit Diagram
 
-<img width="692" height="495" alt="Screenshot 2025-08-18 at 5 53 31 PM" src="https://github.com/user-attachments/assets/5403adb1-a193-413a-9ebf-14330ae10c5f" />
+<img width="976" height="695" alt="Screenshot 2025-08-19 at 8 01 56 PM" src="https://github.com/user-attachments/assets/79e50aac-9673-430a-a82b-930a954a0471" />
 
 Here LED acts as the output!
 
 ### Visuals 📸
 
-<img width="976" height="695" alt="Screenshot 2025-08-19 at 8 01 56 PM" src="https://github.com/user-attachments/assets/79e50aac-9673-430a-a82b-930a954a0471" />
+![xor](https://github.com/user-attachments/assets/5300fd51-3fda-4d55-80d1-d4a6420abc72)
 
 LED turns off at [0, 0] and [1, 1], and on at rest which is the expected behaviour of an XOR Gate
