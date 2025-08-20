@@ -156,3 +156,18 @@ Here LED acts as the output!
 ![xor](https://github.com/user-attachments/assets/5300fd51-3fda-4d55-80d1-d4a6420abc72)
 
 LED turns off at [0, 0] and [1, 1], and on at rest which is the expected behaviour of an XOR Gate
+
+## XNOR GATE
+
+A XOR Gate produces complement of exclusive OR.
+
+### Truth table:
+
+| Input A | Input B | Output (A AND B) |
+|:-------:|:-------:|:----------------:|
+|    0    |    0    |         1        |
+|    0    |    1    |         0        |
+|    1    |    0    |         0        |
+|    1    |    1    |         1        |
+
+Since I am doing this without any help and figuring this out myself, I still haven't found a way to create a circuit for XNOR gate. As you can see my circuit uses minimal components (although not recommended to use single resistors), I can't find a way to create XNOR minimally. Will update soon as I find a way out!
