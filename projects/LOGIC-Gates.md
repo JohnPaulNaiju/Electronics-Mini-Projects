@@ -159,7 +159,7 @@ LED turns off at [0, 0] and [1, 1], and on at rest which is the expected behavio
 
 ## XNOR GATE
 
-A XOR Gate produces complement of exclusive OR.
+A XNOR Gate produces complement of XNOR.
 
 ### Truth table:
 
